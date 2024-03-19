@@ -1,4 +1,4 @@
-The MERN stack concept is a popular web development framework that includes four JavaScript-based technologies designed to work together:
+The MERN stack concept is a popular web development framework that includes four JavaScript-based technologies designed to work together:  
 MongoDB, a NoSQL database;  
 Express, a lightweight Node.js web application framework;  
 React, a JavaScript library for building responsive user interfaces;  
