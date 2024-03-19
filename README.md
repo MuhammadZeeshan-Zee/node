@@ -7,6 +7,11 @@ Node, the premier JavaScript web server.
 Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform.
 # node  
 create api and connect database (with mySQL and nonSQL database) 
+### To backend 
+- server side language (js)
+- run time environement (node)
+- datbase (sql and non sql)
+ 
 ### what is Node js
     
 - Node is not a Language  
@@ -55,5 +60,6 @@ create api and connect database (with mySQL and nonSQL database)
 - projection
 - live with server
   
+ 
  
   
