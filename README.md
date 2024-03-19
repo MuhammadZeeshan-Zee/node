@@ -34,3 +34,26 @@ create api and connect database (with mySQL and nonSQL database)
 - node can connect with DB
 - node run on srever side
 - js is run on browser
+# why should learn
+- you can learn easily if you are js developer
+- full stack web developer
+- good salary
+# Major topics
+- make basic API
+- use with express js
+- Ui and Node
+     - ui event
+     - forms
+     - web pages etc
+- node js event
+- middle ware
+- major package
+- connect with DB
+- make major api
+- api security and token
+- api validation
+- projection
+- live with server
+  
+ 
+  
