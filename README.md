@@ -4,14 +4,14 @@ Express, a lightweight Node.js web application framework;
 React, a JavaScript library for building responsive user interfaces;  
 Node, the premier JavaScript web server.  
 ![image](https://miro.medium.com/v2/resize:fit:700/1*2Qsunn0QtBmQ3zA-QFKz0Q.png)  
-Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform.
-# node  
-create api and connect database (with mySQL and nonSQL database) 
+Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform.  
 ### To backend 
 - server side language (js)
 - run time environement (node)
 - datbase (sql and non sql)
- 
+# node  
+create api and connect database (with mySQL and nonSQL database) 
+
 ### what is Node js
     
 - Node is not a Language  
