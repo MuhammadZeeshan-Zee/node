@@ -10,6 +10,7 @@ The MERN stack concept is a popular web development framework that includes four
 - datbase (sql and non sql)
 # Node  
 create api and connect database (with mySQL and nonSQL database) 
+with the help of node we create our own srever
 ### express js 
 its a framework of node.
 > Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform.  
@@ -73,10 +74,12 @@ its a framework of node.
 - projection
 - live with server
   # important short forms
-  npm (node package manager)
-  ide (integrated development environment)
+  - npm (node package manager)  
+  - ide (integrated development environment)
  # prerequirments
  - node asynchronous(Functions running in parallel with other functions are called asynchronous)
+ - ES6
+ - client server model(optional)
  
  
   
