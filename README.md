@@ -8,6 +8,11 @@ The MERN stack concept is a popular web development framework that includes four
 - server side language (js)
 - run time environement (node)
 - datbase (sql and non sql)
+ ### prerequirments
+ - basic javascript
+ - ES6
+ - client server model(optional)
+ 
 # Node  
 create api and connect database (with mySQL and nonSQL database) 
 with the help of node we create our own srever
@@ -76,10 +81,6 @@ its a framework of node.
   # important short forms
   - npm (node package manager)  
   - ide (integrated development environment)
- # prerequirments
- - node asynchronous(Functions running in parallel with other functions are called asynchronous)
- - ES6
- - client server model(optional)
- 
+
  
   
