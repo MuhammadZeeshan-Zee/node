@@ -42,7 +42,7 @@ its a framework of node.
 - with Node and javaScript, you can become full Stack Developer.
 ### History
 - First release: may 27, 2009   
-- Current version:  20.11.1
+- Current LTS(Long Term SUpport) version:  20.12.0 
 - writtrn in C,C++, JavaScript
 ### js & node are the same?
 - js and node js code syntax is same
@@ -72,7 +72,11 @@ its a framework of node.
 - api validation
 - projection
 - live with server
-  
+  # important short forms
+  npm (node package manager)
+  ide (integrated development environment)
+ # prerequirments
+ - node asynchronous(Functions running in parallel with other functions are called asynchronous)
  
  
   
